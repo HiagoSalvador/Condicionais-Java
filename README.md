@@ -1,7 +1,7 @@
 # Treinamento - Condicionais em Java
 
 ## Introdução
-Neste repositório, você encontrará os exercícios realizados durante o treinamento sobre Condicionais em Java. O objetivo deste treinamento é entender como as estruturas condicionais funcionam e como utilizá-las na programação para controlar o fluxo do programa de acordo com diferentes condições.
+Neste repositório, você encontrará os exercícios realizados durante o treinamento sobre Condicionais em Java pelo PROA. O objetivo deste treinamento é entender como as estruturas condicionais funcionam e como utilizá-las na programação para controlar o fluxo do programa de acordo com diferentes condições.
 
 ## Objetivos
 - Compreender o funcionamento das estruturas condicionais `if`, `else if`, `else` e `switch` em Java.
